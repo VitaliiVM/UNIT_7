@@ -22,7 +22,7 @@ let contact = {
         phonenumber3: "+380508756432"
     },
     address: {
-        sity: "Kremenchuk",
+        sity: "Kiev",
         street: "Geroev/street",
         house: "45"
     }
